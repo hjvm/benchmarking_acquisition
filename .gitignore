@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Datasets.
+data/
+
+# LLMs.
+saved_models/
+
+# Output (too big to push to GitHub).
+output/
