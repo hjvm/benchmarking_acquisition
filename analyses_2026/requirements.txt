@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+# only for rescoring (score_pll.py, score_ngram.py, first run of hu_predictions_ngram.py):
+# torch
+# transformers
+# spacy  (python -m spacy download en_core_web_sm)
+# kenlm  (pip install https://github.com/kpu/kenlm/archive/master.zip)

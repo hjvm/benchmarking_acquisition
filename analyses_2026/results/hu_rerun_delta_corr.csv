@@ -1,0 +1,12 @@
+model,all pairs,kept by their filter
+BabyBERTa-1,0.085,0.069
+BabyBERTa-2,0.086,0.072
+BabyBERTa-3,0.09,0.08
+roberta-base-10M-1,0.255,0.28
+roberta-base-10M-2,0.285,0.291
+roberta-base,0.432,0.471
+roberta-large,0.432,0.466
+bert-base-cased,0.427,0.456
+bert-large-cased,0.437,0.474
+5-gram-Wiki-LogProb,0.21,0.202
+5-gram-Wiki-SLOR,0.338,0.351

@@ -1,0 +1,181 @@
+model,test,dataset,value
+5-gram (Wikipedia),"P1a r(gram, ungram logprob)",blimp,0.9796462401460833
+5-gram (Wikipedia),P1b r in closest decile,blimp,0.9880518087711607
+5-gram (Wikipedia),P1b r in farthest decile,blimp,0.9490848089889303
+5-gram (Wikipedia),"minimal-pair accuracy, sum_logprob",blimp,0.6006896242891049
+5-gram (Wikipedia),"minimal-pair accuracy, mean_logprob",blimp,0.5891212514740346
+5-gram (Wikipedia),"minimal-pair accuracy, slor",blimp,0.5959130058364307
+5-gram (Wikipedia),"minimal-pair accuracy, bf_l1",blimp,0.5905990178078306
+5-gram (Wikipedia),"P1a r(gram, ungram logprob)",scamp_plausible,0.9788845261805257
+5-gram (Wikipedia),P1b r in closest decile,scamp_plausible,0.9898680808733056
+5-gram (Wikipedia),P1b r in farthest decile,scamp_plausible,0.8088493781179924
+5-gram (Wikipedia),"minimal-pair accuracy, sum_logprob",scamp_plausible,0.6004925373134329
+5-gram (Wikipedia),"minimal-pair accuracy, mean_logprob",scamp_plausible,0.586
+5-gram (Wikipedia),"minimal-pair accuracy, slor",scamp_plausible,0.6064626865671642
+5-gram (Wikipedia),"minimal-pair accuracy, bf_l1",scamp_plausible,0.5915223880597015
+5-gram (Wikipedia),"P1a r(gram, ungram logprob)",scamp_implausible,0.9781121500605436
+5-gram (Wikipedia),P1b r in closest decile,scamp_implausible,0.9918190410891519
+5-gram (Wikipedia),P1b r in farthest decile,scamp_implausible,0.8745716860382956
+5-gram (Wikipedia),"minimal-pair accuracy, sum_logprob",scamp_implausible,0.5864626865671642
+5-gram (Wikipedia),"minimal-pair accuracy, mean_logprob",scamp_implausible,0.570089552238806
+5-gram (Wikipedia),"minimal-pair accuracy, slor",scamp_implausible,0.5835074626865672
+5-gram (Wikipedia),"minimal-pair accuracy, bf_l1",scamp_implausible,0.5680149253731344
+5-gram (Wikipedia),"P1a r(gram, ungram logprob)",syntaxgym,0.9874899775304791
+5-gram (Wikipedia),P1b r in closest decile,syntaxgym,0.9897770016307027
+5-gram (Wikipedia),P1b r in farthest decile,syntaxgym,0.9770638668974808
+5-gram (Wikipedia),"minimal-pair accuracy, sum_logprob",syntaxgym,0.49705304518664045
+5-gram (Wikipedia),"minimal-pair accuracy, mean_logprob",syntaxgym,0.49410609037328096
+5-gram (Wikipedia),"minimal-pair accuracy, slor",syntaxgym,0.4960707269155206
+5-gram (Wikipedia),"minimal-pair accuracy, bf_l1",syntaxgym,0.49705304518664045
+5-gram (Wikipedia),"P2a r(model delta, human delta)","li (filtered, n=1883)",0.20193932341756488
+5-gram (Wikipedia),"minimal-pair accuracy, sum_logprob",li (filtered),0.6797663303239512
+5-gram (Wikipedia),P2b r in closest decile,li,0.4069971998409419
+5-gram (Wikipedia),P2b r in farthest decile,li,0.18690157241683292
+5-gram (Wikipedia),"P3 AUC, sum_logprob",li,0.5406366317995692
+5-gram (Wikipedia),"P3 AUC, mean_logprob",li,0.5986330998078752
+5-gram (Wikipedia),"P3 AUC, slor",li,0.6083650953831823
+5-gram (Wikipedia),"P3 AUC, bf_l1",li,0.5779274777309864
+5-gram (Wikipedia),"P3 AUC, sum_logprob",cola,0.5650588881860042
+5-gram (Wikipedia),"P3 AUC, mean_logprob",cola,0.6083828906386279
+5-gram (Wikipedia),"P3 AUC, slor",cola,0.6384857847134507
+5-gram (Wikipedia),"P3 AUC, bf_l1",cola,0.5867399848576239
+5-gram (Wikipedia),"P3 AUC, sum_logprob",blimp,0.5156818185564713
+5-gram (Wikipedia),"P3 AUC, mean_logprob",blimp,0.5340656725328581
+5-gram (Wikipedia),"P3 AUC, slor",blimp,0.5399682277790154
+5-gram (Wikipedia),"P3 AUC, bf_l1",blimp,0.5255815106928046
+5-gram (Wikipedia),"P3 AUC, sum_logprob",scamp_plausible,0.5103163122076186
+5-gram (Wikipedia),"P3 AUC, mean_logprob",scamp_plausible,0.5300708709066607
+5-gram (Wikipedia),"P3 AUC, slor",scamp_plausible,0.542314548451771
+5-gram (Wikipedia),"P3 AUC, bf_l1",scamp_plausible,0.5240729189128982
+5-gram (Wikipedia),"P3 AUC, sum_logprob",scamp_implausible,0.5099516783247939
+5-gram (Wikipedia),"P3 AUC, mean_logprob",scamp_implausible,0.5290714171307641
+5-gram (Wikipedia),"P3 AUC, slor",scamp_implausible,0.5376427997326799
+5-gram (Wikipedia),"P3 AUC, bf_l1",scamp_implausible,0.5239662013811539
+5-gram (Wikipedia),"P3 AUC, sum_logprob",syntaxgym,0.5004921240847457
+5-gram (Wikipedia),"P3 AUC, mean_logprob",syntaxgym,0.49998938555895645
+5-gram (Wikipedia),"P3 AUC, slor",syntaxgym,0.4987880238226655
+5-gram (Wikipedia),"P3 AUC, bf_l1",syntaxgym,0.498256336821303
+5-gram (Wikipedia),"P3 AUC, sum_logprob",POOLED,0.5158054879827244
+5-gram (Wikipedia),"P3 AUC, mean_logprob",POOLED,0.5351184609222464
+5-gram (Wikipedia),"P3 AUC, slor",POOLED,0.5437643326372459
+5-gram (Wikipedia),"P3 AUC, bf_l1",POOLED,0.5267182386500197
+GPT-2,"P1a r(gram, ungram logprob)",blimp,0.9818664471553694
+GPT-2,P1b r in closest decile,blimp,0.9892753075444012
+GPT-2,P1b r in farthest decile,blimp,0.9571978853973816
+GPT-2,"minimal-pair accuracy, sum_logprob",blimp,0.825205618497455
+GPT-2,"minimal-pair accuracy, mean_logprob",blimp,0.8018449688773454
+GPT-2,"minimal-pair accuracy, slor",blimp,0.8039048855850611
+GPT-2,"minimal-pair accuracy, bf_l1",blimp,0.7908886003015241
+GPT-2,"P1a r(gram, ungram logprob)",scamp_plausible,0.9753711202316253
+GPT-2,P1b r in closest decile,scamp_plausible,0.9909358326901913
+GPT-2,P1b r in farthest decile,scamp_plausible,0.8621694617731559
+GPT-2,"minimal-pair accuracy, sum_logprob",scamp_plausible,0.8408805970149253
+GPT-2,"minimal-pair accuracy, mean_logprob",scamp_plausible,0.8463432835820895
+GPT-2,"minimal-pair accuracy, slor",scamp_plausible,0.8678208955223881
+GPT-2,"minimal-pair accuracy, bf_l1",scamp_plausible,0.8619850746268657
+GPT-2,"P1a r(gram, ungram logprob)",scamp_implausible,0.9777940457409499
+GPT-2,P1b r in closest decile,scamp_implausible,0.9928333044345456
+GPT-2,P1b r in farthest decile,scamp_implausible,0.9052192956132543
+GPT-2,"minimal-pair accuracy, sum_logprob",scamp_implausible,0.8241940298507463
+GPT-2,"minimal-pair accuracy, mean_logprob",scamp_implausible,0.8234626865671641
+GPT-2,"minimal-pair accuracy, slor",scamp_implausible,0.8381492537313433
+GPT-2,"minimal-pair accuracy, bf_l1",scamp_implausible,0.832865671641791
+GPT-2,"P1a r(gram, ungram logprob)",syntaxgym,0.9775377736129375
+GPT-2,P1b r in closest decile,syntaxgym,0.9848947020038914
+GPT-2,P1b r in farthest decile,syntaxgym,0.9651626723376343
+GPT-2,"minimal-pair accuracy, sum_logprob",syntaxgym,0.724950884086444
+GPT-2,"minimal-pair accuracy, mean_logprob",syntaxgym,0.7455795677799607
+GPT-2,"minimal-pair accuracy, slor",syntaxgym,0.7888015717092338
+GPT-2,"minimal-pair accuracy, bf_l1",syntaxgym,0.7662082514734774
+GPT-2,"P2a r(model delta, human delta)","li (filtered, n=1883)",0.34358191965904106
+GPT-2,"minimal-pair accuracy, sum_logprob",li (filtered),0.7854487519915029
+GPT-2,P2b r in closest decile,li,0.5418321830607153
+GPT-2,P2b r in farthest decile,li,0.25615889587373963
+GPT-2,"P3 AUC, sum_logprob",li,0.5795387063595256
+GPT-2,"P3 AUC, mean_logprob",li,0.6431452191969571
+GPT-2,"P3 AUC, slor",li,0.6743994643792816
+GPT-2,"P3 AUC, bf_l1",li,0.5959046362242619
+GPT-2,"P3 AUC, sum_logprob",cola,0.6128696799399769
+GPT-2,"P3 AUC, mean_logprob",cola,0.6708782604446668
+GPT-2,"P3 AUC, slor",cola,0.7101785400190359
+GPT-2,"P3 AUC, bf_l1",cola,0.6181067952387136
+GPT-2,"P3 AUC, sum_logprob",blimp,0.5548362824682557
+GPT-2,"P3 AUC, mean_logprob",blimp,0.6100892669859657
+GPT-2,"P3 AUC, slor",blimp,0.622320479282691
+GPT-2,"P3 AUC, bf_l1",blimp,0.5751713973045222
+GPT-2,"P3 AUC, sum_logprob",scamp_plausible,0.5602742268879484
+GPT-2,"P3 AUC, mean_logprob",scamp_plausible,0.6235932728892849
+GPT-2,"P3 AUC, slor",scamp_plausible,0.6416707787926041
+GPT-2,"P3 AUC, bf_l1",scamp_plausible,0.5752337834707062
+GPT-2,"P3 AUC, sum_logprob",scamp_implausible,0.5493080644909779
+GPT-2,"P3 AUC, mean_logprob",scamp_implausible,0.6001144046558253
+GPT-2,"P3 AUC, slor",scamp_implausible,0.616387295388728
+GPT-2,"P3 AUC, bf_l1",scamp_implausible,0.5715558081978169
+GPT-2,"P3 AUC, sum_logprob",syntaxgym,0.5376301233977019
+GPT-2,"P3 AUC, mean_logprob",syntaxgym,0.5599079052497096
+GPT-2,"P3 AUC, slor",syntaxgym,0.5734693011066037
+GPT-2,"P3 AUC, bf_l1",syntaxgym,0.5401766242989644
+GPT-2,"P3 AUC, sum_logprob",POOLED,0.5587636413239903
+GPT-2,"P3 AUC, mean_logprob",POOLED,0.6107544379076036
+GPT-2,"P3 AUC, slor",POOLED,0.6267618372013241
+GPT-2,"P3 AUC, bf_l1",POOLED,0.5744348558427023
+Llama-3-70B,"P1a r(gram, ungram logprob)",blimp,0.9820573764138458
+Llama-3-70B,P1b r in closest decile,blimp,0.9887039462857904
+Llama-3-70B,P1b r in farthest decile,blimp,0.9532196101795636
+Llama-3-70B,"minimal-pair accuracy, sum_logprob",blimp,0.8178317137611393
+Llama-3-70B,"minimal-pair accuracy, mean_logprob",blimp,0.7893212723717403
+Llama-3-70B,"minimal-pair accuracy, slor",blimp,0.7969340080306898
+Llama-3-70B,"minimal-pair accuracy, bf_l1",blimp,0.7781409998059499
+Llama-3-70B,"P1a r(gram, ungram logprob)",scamp_plausible,0.9722142266859017
+Llama-3-70B,P1b r in closest decile,scamp_plausible,0.9911668828153415
+Llama-3-70B,P1b r in farthest decile,scamp_plausible,0.8075173881091038
+Llama-3-70B,"minimal-pair accuracy, sum_logprob",scamp_plausible,0.8362985074626865
+Llama-3-70B,"minimal-pair accuracy, mean_logprob",scamp_plausible,0.8371044776119403
+Llama-3-70B,"minimal-pair accuracy, slor",scamp_plausible,0.8603880597014926
+Llama-3-70B,"minimal-pair accuracy, bf_l1",scamp_plausible,0.8373134328358209
+Llama-3-70B,"P1a r(gram, ungram logprob)",scamp_implausible,0.9747412290185593
+Llama-3-70B,P1b r in closest decile,scamp_implausible,0.9923640302123462
+Llama-3-70B,P1b r in farthest decile,scamp_implausible,0.873044623378824
+Llama-3-70B,"minimal-pair accuracy, sum_logprob",scamp_implausible,0.7884477611940298
+Llama-3-70B,"minimal-pair accuracy, mean_logprob",scamp_implausible,0.7832089552238806
+Llama-3-70B,"minimal-pair accuracy, slor",scamp_implausible,0.7924925373134328
+Llama-3-70B,"minimal-pair accuracy, bf_l1",scamp_implausible,0.7714925373134328
+Llama-3-70B,"P1a r(gram, ungram logprob)",syntaxgym,0.9735075515333709
+Llama-3-70B,P1b r in closest decile,syntaxgym,0.9836374537318734
+Llama-3-70B,P1b r in farthest decile,syntaxgym,0.960676875951765
+Llama-3-70B,"minimal-pair accuracy, sum_logprob",syntaxgym,0.7770137524557956
+Llama-3-70B,"minimal-pair accuracy, mean_logprob",syntaxgym,0.7996070726915521
+Llama-3-70B,"minimal-pair accuracy, slor",syntaxgym,0.8408644400785854
+Llama-3-70B,"minimal-pair accuracy, bf_l1",syntaxgym,0.7779960707269156
+Llama-3-70B,"P2a r(model delta, human delta)","li (filtered, n=1883)",0.3988746809402122
+Llama-3-70B,"minimal-pair accuracy, sum_logprob",li (filtered),0.8449283058948487
+Llama-3-70B,P2b r in closest decile,li,0.6397125022140607
+Llama-3-70B,P2b r in farthest decile,li,0.3091225405910647
+Llama-3-70B,"P3 AUC, sum_logprob",li,0.609090900269751
+Llama-3-70B,"P3 AUC, mean_logprob",li,0.6570829047720701
+Llama-3-70B,"P3 AUC, slor",li,0.6867749557527629
+Llama-3-70B,"P3 AUC, bf_l1",li,0.5847308344920044
+Llama-3-70B,"P3 AUC, sum_logprob",cola,0.6561504344107084
+Llama-3-70B,"P3 AUC, mean_logprob",cola,0.6973116108714064
+Llama-3-70B,"P3 AUC, slor",cola,0.734708436143299
+Llama-3-70B,"P3 AUC, bf_l1",cola,0.6051843510766484
+Llama-3-70B,"P3 AUC, sum_logprob",blimp,0.5544845064602362
+Llama-3-70B,"P3 AUC, mean_logprob",blimp,0.6087669888616618
+Llama-3-70B,"P3 AUC, slor",blimp,0.62121182345734
+Llama-3-70B,"P3 AUC, bf_l1",blimp,0.5543354436400089
+Llama-3-70B,"P3 AUC, sum_logprob",scamp_plausible,0.5583519189128983
+Llama-3-70B,"P3 AUC, mean_logprob",scamp_plausible,0.6026307722209846
+Llama-3-70B,"P3 AUC, slor",scamp_plausible,0.6215531352194252
+Llama-3-70B,"P3 AUC, bf_l1",scamp_plausible,0.5513492677656494
+Llama-3-70B,"P3 AUC, sum_logprob",scamp_implausible,0.5417927598574293
+Llama-3-70B,"P3 AUC, mean_logprob",scamp_implausible,0.5860389069948764
+Llama-3-70B,"P3 AUC, slor",scamp_implausible,0.5997889926486968
+Llama-3-70B,"P3 AUC, bf_l1",scamp_implausible,0.5410854778347071
+Llama-3-70B,"P3 AUC, sum_logprob",syntaxgym,0.5522587530540641
+Llama-3-70B,"P3 AUC, mean_logprob",syntaxgym,0.5770039099741008
+Llama-3-70B,"P3 AUC, slor",syntaxgym,0.5912349805659234
+Llama-3-70B,"P3 AUC, bf_l1",syntaxgym,0.5389540336805865
+Llama-3-70B,"P3 AUC, sum_logprob",POOLED,0.5568515458600657
+Llama-3-70B,"P3 AUC, mean_logprob",POOLED,0.5975207864055616
+Llama-3-70B,"P3 AUC, slor",POOLED,0.618493040764518
+Llama-3-70B,"P3 AUC, bf_l1",POOLED,0.5492164561709139

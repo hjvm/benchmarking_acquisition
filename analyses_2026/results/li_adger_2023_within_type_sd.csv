@@ -1,0 +1,15 @@
+model,all,LI,Adger
+human,0.371,0.377,0.363
+Baby-CHI,0.549,0.572,0.52
+Baby-News,0.525,0.532,0.517
+Baby-Wiki,0.444,0.474,0.405
+Baby-CHI+News+Wiki,0.552,0.57,0.528
+RoBERTa-10M-1,0.519,0.549,0.48
+RoBERTa-10M-2,0.533,0.551,0.511
+RoBERTa-base,0.555,0.583,0.519
+RoBERTa-large,0.546,0.575,0.51
+BERT-base-cased,0.543,0.57,0.51
+BERT-large-cased,0.564,0.591,0.53
+Trigram-BNC-LogProb,0.309,0.325,0.288
+Trigram-BNC-SLOR,0.542,0.527,0.563
+"human (Sprouse z-scale, not re-z-scored)",0.288,0.293,0.283
